@@ -11949,6 +11949,8 @@ in
 
   bspwm = callPackage ../applications/window-managers/bspwm { };
 
+  bwm = callPackage ../applications/window-managers/2bwm { };
+
   bvi = callPackage ../applications/editors/bvi { };
 
   bviplus = callPackage ../applications/editors/bviplus { };
